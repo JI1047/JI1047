@@ -1,5 +1,6 @@
-KIM JI SEOK
--BackEnd 
+# KIM JI SEOK ✨  
+**🚀 Back-End Developer | Java(Spring) | Passionate about Clean Code & System Architecture**
+
 <div align="left"> 
     <h2> 🛠️ Tech Stacks </h2>
     <br> 
