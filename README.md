@@ -18,7 +18,7 @@ KIM JI SEOK
 
 ---
 
-<div align="center">
+<div align="left">
     <h2> 🏅 Baekjoon Online Judge </h2>
     <a href="https://solved.ac/kjs001004">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjs001004"/>
@@ -27,7 +27,7 @@ KIM JI SEOK
 
 ---
 
-<div align="center">
+<div align="left">
     <h2> 📊 GitHub Stats </h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JI1047&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 </div>
