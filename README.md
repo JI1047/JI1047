@@ -1,4 +1,6 @@
-<div align="center"> 
+KIM JI SEOK
+-BackEnd 
+<div align="left"> 
     <h2> 🛠️ Tech Stacks </h2>
     <br> 
     <div>
